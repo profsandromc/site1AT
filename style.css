@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header,
+main,
+footer{
+    width: 100%;
+    display: block;
+    float: left;
+}
+header{
+    height: 100px;
+    background-color: aquamarine;
+}
+main{
+    height: 400px;
+    background-color: chocolate;
+}
+footer{
+    height: 200px;
+    background-color: rebeccapurple;
+}
